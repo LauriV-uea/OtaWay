@@ -1,2 +1,2 @@
 # OtaWay
-Aplicación móvil turíistica del cantón Otavalo desarrollada con Flutter y Dart
+Aplicación móvil turística del cantón Otavalo desarrollada con Flutter y Dart
