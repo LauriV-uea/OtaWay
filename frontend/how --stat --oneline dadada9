@@ -1,0 +1,12 @@
+[33m0926e32[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m actualización app
+ .vscode/extensions.json                            |     5 [32m+[m
+ README.md                                          |    97 [32m+[m[31m-[m
+ package-lock.json                                  | 10004 [32m+++++++++++++[m[31m------[m
+ src/features/admin/components/AdminNavigation.tsx  |   114 [32m+[m
+ src/features/admin/navigation/admin-navigation.ts  |    62 [32m+[m
+ .../admin/pages/AdminDashboardPage.test.tsx        |    16 [32m+[m
+ src/features/admin/pages/AdminDashboardPage.tsx    |    98 [32m+[m
+ src/features/tourism/pages/TouristPlacesPage.tsx   |    67 [32m+[m
+ src/routes/AppRoutes.tsx                           |    35 [32m+[m
+ yarn.lock                                          |  4990 [32m+++++[m[31m----[m
+ 10 files changed, 10302 insertions(+), 5186 deletions(-)
